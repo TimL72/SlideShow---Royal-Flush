@@ -1,5 +1,5 @@
 # An attempt at a slideshow
 
-# Obviously, no clue what I am doing
+Obviously, no clue what I am doing
 
-# But at least I am getting some practice with GitHub ...
+But at least I am getting some practice with GitHub ...
