@@ -4,8 +4,5 @@
 Slide 1 - Ace of Spades
 
 
-.. image:: 
-
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjP0cWl2JvWAhUMJCYKHSW0CTQQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F291748882090475068%2F&psig=AFQjCNFi4lhOFWVDCi7QhIryYDgd0gxyWA&ust=1505169720880406
-
-
+.. image:: https://img03.deviantart.net/31e1/i/2013/096/f/a/ace_of_spades_template_by_owen_marsh-d60ouk3.png
+target :https://img03.deviantart.net/31e1/i/2013/096/f/a/ace_of_spades_template_by_owen_marsh-d60ouk3.png
